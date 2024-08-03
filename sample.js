@@ -20,3 +20,4 @@ console.log(typeof(arr))
 let obj={name:"swathi",sec:"b",branch:"it"}
 console.log(object.name&&"no data");
 let string={one:console.log("swathi"),two:console.log("dattha")}
+console.log(string)
